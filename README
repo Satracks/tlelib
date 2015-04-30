@@ -1,4 +1,7 @@
 
+   USE QUICKTLE LIBRARY INSTEAD OF TLELIB.
+   https://github.com/fundaev/quicktle
+
    TLELib  - version 1.2.0
    Copyright 2011-2014 Sergei Fundaev
  ----------------------------------------------------
